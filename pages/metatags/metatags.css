@@ -1,0 +1,37 @@
+@charset "utf-8";
+* {
+	padding:0px;
+	margin:0px;
+	font-family:"Segoe UI", Tahoma, Geneva, Verdana;
+	background-color:#FFFF99;
+}
+
+body {
+	margin:1em;
+}
+
+h2, h3, h4, h5, h6 {
+	margin-top:1em;
+}
+
+table {
+	border-style:none;
+	border-collapse:collapse;
+}
+
+td {
+	padding:3px;
+	border:1px solid #FFFFFF;
+	vertical-align:top;
+	background-color:#CCCCCC;
+	font-size:small;
+}
+
+hr {
+	margin:0.5em 0 0.5em 0;
+}
+
+pre {
+	font-family:Consolas, "Courier New", Courier, monospace;
+	font-size:small;
+}
